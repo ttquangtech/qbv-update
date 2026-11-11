@@ -1,6 +1,6 @@
 {
-  "version": "1.1.3",
-  "notes": "Báo rõ khi bản cài đặt bị lẫn file cũ; kích hoạt online bằng email.",
+  "version": "1.1.4",
+  "notes": "Sửa lỗi không nạp được sau khi mã hóa; kích hoạt online bằng email.",
   "download": "https://raw.githubusercontent.com/ttquangtech/qbv-update/main/QBv.rbz",
   "sha256": "",
   "license_url": "https://script.google.com/macros/s/AKfycbyhl_RYinL0dRVYMdxokWF5rIUcOYPp5LieHL7IpgKf8dlVb18tRLgT1WZu-KhjxqX9mA/exec"
